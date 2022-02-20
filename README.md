@@ -10,4 +10,4 @@ Used HoughLinesP to detect both lanes
 
 ![Lane_Keeper_testing](https://user-images.githubusercontent.com/95322972/154837945-c58fc7c8-7283-4882-9ca3-d4606773fef5.gif)
 
-![Lane_Keeper_manufacturing](https://user-images.githubusercontent.com/95322972/154837992-e212cff6-a7ab-42a6-be38-9ca7b8b25e2d.gif)
+![Lane_Keeper_manufacturing](https://user-images.githubusercontent.com/95322972/154838232-bab13636-89ce-4629-aede-cac4ff672aa8.gif)
