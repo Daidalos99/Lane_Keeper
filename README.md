@@ -1,2 +1,13 @@
 # Lane_Keeper
-OpenCV를 이용한 차선 인식 및 주행 로봇
+Lane_Keeper using OpenCV
+
+Goal
+1. Set the car on the track
+2. Detect both lanes and drives automatically without getting out of track
+
+Used HoughLinesP to detect both lanes
+
+
+![Lane_Keeper_testing](https://user-images.githubusercontent.com/95322972/154837945-c58fc7c8-7283-4882-9ca3-d4606773fef5.gif)
+
+![Lane_Keeper_manufacturing](https://user-images.githubusercontent.com/95322972/154837992-e212cff6-a7ab-42a6-be38-9ca7b8b25e2d.gif)
